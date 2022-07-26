@@ -1,0 +1,8 @@
+C:\Users\susan\Documents\CsharpNelio\ws-modulo4\bin\Debug\ws-modulo4.exe.config
+C:\Users\susan\Documents\CsharpNelio\ws-modulo4\bin\Debug\ws-modulo4.exe
+C:\Users\susan\Documents\CsharpNelio\ws-modulo4\bin\Debug\ws-modulo4.pdb
+C:\Users\susan\Documents\CsharpNelio\ws-modulo4\obj\Debug\ws-modulo4.csproj.AssemblyReference.cache
+C:\Users\susan\Documents\CsharpNelio\ws-modulo4\obj\Debug\ws-modulo4.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\Documents\CsharpNelio\ws-modulo4\obj\Debug\ws-modulo4.csproj.CoreCompileInputs.cache
+C:\Users\susan\Documents\CsharpNelio\ws-modulo4\obj\Debug\ws-modulo4.exe
+C:\Users\susan\Documents\CsharpNelio\ws-modulo4\obj\Debug\ws-modulo4.pdb

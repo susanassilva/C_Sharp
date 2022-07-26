@@ -1,0 +1,8 @@
+C:\Users\susan\Documents\CsharpNelio\ws-modulo8\bin\Debug\ws-modulo8.exe.config
+C:\Users\susan\Documents\CsharpNelio\ws-modulo8\bin\Debug\ws-modulo8.exe
+C:\Users\susan\Documents\CsharpNelio\ws-modulo8\bin\Debug\ws-modulo8.pdb
+C:\Users\susan\Documents\CsharpNelio\ws-modulo8\obj\Debug\ws-modulo8.csproj.AssemblyReference.cache
+C:\Users\susan\Documents\CsharpNelio\ws-modulo8\obj\Debug\ws-modulo8.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\Documents\CsharpNelio\ws-modulo8\obj\Debug\ws-modulo8.csproj.CoreCompileInputs.cache
+C:\Users\susan\Documents\CsharpNelio\ws-modulo8\obj\Debug\ws-modulo8.exe
+C:\Users\susan\Documents\CsharpNelio\ws-modulo8\obj\Debug\ws-modulo8.pdb

@@ -1,0 +1,8 @@
+C:\Users\susan\Documents\CsharpNelio\composition\bin\Debug\composition.exe.config
+C:\Users\susan\Documents\CsharpNelio\composition\bin\Debug\composition.exe
+C:\Users\susan\Documents\CsharpNelio\composition\bin\Debug\composition.pdb
+C:\Users\susan\Documents\CsharpNelio\composition\obj\Debug\composition.csproj.AssemblyReference.cache
+C:\Users\susan\Documents\CsharpNelio\composition\obj\Debug\composition.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\Documents\CsharpNelio\composition\obj\Debug\composition.csproj.CoreCompileInputs.cache
+C:\Users\susan\Documents\CsharpNelio\composition\obj\Debug\composition.exe
+C:\Users\susan\Documents\CsharpNelio\composition\obj\Debug\composition.pdb

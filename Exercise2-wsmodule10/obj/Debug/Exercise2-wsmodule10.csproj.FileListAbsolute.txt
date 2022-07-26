@@ -1,0 +1,8 @@
+C:\Users\susan\Documents\CsharpNelio\Exercise2-wsmodule10\bin\Debug\Exercise2-wsmodule10.exe.config
+C:\Users\susan\Documents\CsharpNelio\Exercise2-wsmodule10\bin\Debug\Exercise2-wsmodule10.exe
+C:\Users\susan\Documents\CsharpNelio\Exercise2-wsmodule10\bin\Debug\Exercise2-wsmodule10.pdb
+C:\Users\susan\Documents\CsharpNelio\Exercise2-wsmodule10\obj\Debug\Exercise2-wsmodule10.csproj.AssemblyReference.cache
+C:\Users\susan\Documents\CsharpNelio\Exercise2-wsmodule10\obj\Debug\Exercise2-wsmodule10.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\Documents\CsharpNelio\Exercise2-wsmodule10\obj\Debug\Exercise2-wsmodule10.csproj.CoreCompileInputs.cache
+C:\Users\susan\Documents\CsharpNelio\Exercise2-wsmodule10\obj\Debug\Exercise2-wsmodule10.exe
+C:\Users\susan\Documents\CsharpNelio\Exercise2-wsmodule10\obj\Debug\Exercise2-wsmodule10.pdb

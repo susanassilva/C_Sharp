@@ -1,0 +1,8 @@
+C:\Users\susan\Documents\CsharpNelio\ws-exercicios-modulo3\obj\Debug\ws-exercicios-modulo3.csproj.AssemblyReference.cache
+C:\Users\susan\Documents\CsharpNelio\ws-exercicios-modulo3\obj\Debug\ws-exercicios-modulo3.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\Documents\CsharpNelio\ws-exercicios-modulo3\obj\Debug\ws-exercicios-modulo3.csproj.CoreCompileInputs.cache
+C:\Users\susan\Documents\CsharpNelio\ws-exercicios-modulo3\bin\Debug\ws-exercicios-modulo3.exe.config
+C:\Users\susan\Documents\CsharpNelio\ws-exercicios-modulo3\bin\Debug\ws-exercicios-modulo3.exe
+C:\Users\susan\Documents\CsharpNelio\ws-exercicios-modulo3\bin\Debug\ws-exercicios-modulo3.pdb
+C:\Users\susan\Documents\CsharpNelio\ws-exercicios-modulo3\obj\Debug\ws-exercicios-modulo3.exe
+C:\Users\susan\Documents\CsharpNelio\ws-exercicios-modulo3\obj\Debug\ws-exercicios-modulo3.pdb

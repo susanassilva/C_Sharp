@@ -1,0 +1,8 @@
+C:\Users\susan\Documents\CsharpNelio\ws-modulo6\bin\Debug\ws-modulo6.exe.config
+C:\Users\susan\Documents\CsharpNelio\ws-modulo6\bin\Debug\ws-modulo6.exe
+C:\Users\susan\Documents\CsharpNelio\ws-modulo6\bin\Debug\ws-modulo6.pdb
+C:\Users\susan\Documents\CsharpNelio\ws-modulo6\obj\Debug\ws-modulo6.csproj.AssemblyReference.cache
+C:\Users\susan\Documents\CsharpNelio\ws-modulo6\obj\Debug\ws-modulo6.csproj.SuggestedBindingRedirects.cache
+C:\Users\susan\Documents\CsharpNelio\ws-modulo6\obj\Debug\ws-modulo6.csproj.CoreCompileInputs.cache
+C:\Users\susan\Documents\CsharpNelio\ws-modulo6\obj\Debug\ws-modulo6.exe
+C:\Users\susan\Documents\CsharpNelio\ws-modulo6\obj\Debug\ws-modulo6.pdb
